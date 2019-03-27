@@ -1,3 +1,4 @@
+## 0.1.1
 * Add CanBuildOutputAst function to RevitDropDownBase for judging whether it have valid Enumeration values to the output in dropdown list
 * Update RevitSystemTestBase to make it more user friendly
 * Add two new nodes to ImportInstance because of RevitAPI changes
